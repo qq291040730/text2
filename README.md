@@ -1,10 +1,7 @@
 # ex2
 
 实验截图：
-
-https://github.com/7419adf/ex2/blob/master/images/%E7%BA%A6%E6%9D%9F%E5%B8%83%E5%B1%80.png
-https://github.com/7419adf/ex2/blob/master/images/%E7%BA%BF%E6%80%A7%E5%B8%83%E5%B1%80.png
-https://github.com/7419adf/ex2/blob/master/images/%E8%A1%A8%E6%A0%BC%E5%B8%83%E5%B1%80.png
+https://github.com/qq291040730/text2/tree/master/images
 
 实验代码：
 
